@@ -8,7 +8,7 @@ galaxy_info:
   platforms:
   - name: Ubuntu
     versions:
-      - Saucy
-  categories:
+      - saucy
+  galaxy_tags:
     - system
 dependencies: []
